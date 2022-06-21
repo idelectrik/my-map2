@@ -991,6 +991,11 @@
                          "value":"speaker"
                         }, 
                         {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
+                        }, 
+                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Room01"
