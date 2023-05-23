@@ -993,7 +993,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet.jit.si"
+                         "value":"jitsi.labneosoft.fr"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1087,7 +1087,7 @@
                         {
                          "name":"jitsiUrl",
                          "type":"string",
-                         "value":"meet.jit.si"
+                         "value":"jitsi.labneosoft.fr"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -2203,7 +2203,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.5",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -3106,6 +3106,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":98
 }
