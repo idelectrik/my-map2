@@ -986,11 +986,6 @@
                          "value":"Room01"
                         }, 
                         {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
                          "name":"jitsiUrl",
                          "type":"string",
                          "value":"meet.workadventure.labneosoft.fr"
