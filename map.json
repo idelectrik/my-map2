@@ -1075,6 +1075,11 @@
                          "value":"{\n  \"startWithAudioMuted\": true,\n  \"startWithVideoMuted\": true\n}"
                         }, 
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"string",
+                         "value":"true"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Room02"
