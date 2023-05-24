@@ -571,6 +571,11 @@
                          "value":"onaction"
                         }, 
                         {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
+                        }, 
+                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Dakota"
@@ -1382,6 +1387,11 @@
                          "value":"onaction"
                         }, 
                         {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
+                        }, 
+                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Central Park"
@@ -1464,6 +1474,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1550,6 +1565,11 @@
                          "value":"onaction"
                         }, 
                         {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
+                        }, 
+                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"King's Landing"
@@ -1632,6 +1652,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
                         }, 
                         {
                          "name":"meetingRoomLabel",
@@ -1772,7 +1797,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":98,
          "x":0,
          "y":0
