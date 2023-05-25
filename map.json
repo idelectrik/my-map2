@@ -2481,7 +2481,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Suitable for up to 300 users.\n\nCounting with several meeting zones spread out throughout the map, four main big rooms for your conferences and a garden for your chillout sessions.\nThis is the map you are looking for when you have a populated event and need everyone to be able to meet in a simple yet efficient way."
+         "value":"Ici on anime des TALK, on partage des sujets tech ou moins tech, on fait connaissance entre agences et practices !"
         }, 
         {
          "name":"mapImage",
@@ -2489,19 +2489,14 @@
          "value":"map.png"
         }, 
         {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/workadventure.github.io\/webinar\/map.json"
-        }, 
-        {
          "name":"mapName",
          "type":"string",
-         "value":"Webinar"
+         "value":"N\u00e9osoft Community Map"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }, 
         {
          "name":"tutorial",
